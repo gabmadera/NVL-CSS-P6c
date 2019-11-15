@@ -1,0 +1,28 @@
+body {background-color: #FDFFCE;
+font-family: sans-serif;}
+h1 {text-shadow: 1px 2px 2px #4D7512}
+table {font-weight: bold;
+      font-style: italic;
+      border: dotted 1px #FFFFFF;
+      padding: 20px;}
+tr>td {padding: 5px;}
+#tabla {font-size: 15px;
+      font-weight: bold;
+      font-family: Tahoma, serif;
+      letter-spacing: 3px;
+      text-transform: uppercase;}
+.ingredientes>p {font-size: 15px;
+      font-weight: bold;
+      font-family: Tahoma, serif;
+      letter-spacing: 3px;
+      text-transform: uppercase;}
+div>h2 {font-size: 15px;
+      font-weight: bold;
+      font-family: Tahoma, serif;
+      letter-spacing: 3px;
+      text-transform: uppercase;}
+[cantidad] {color: #E33419;}
+[relleno] {color: #138A0F;}
+ul>li {font-weight: bolder;
+      text-transform: uppercase;}
+img {border-radius: 200px;}
