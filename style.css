@@ -21,8 +21,12 @@ div>h2 {font-size: 15px;
       font-family: Tahoma, serif;
       letter-spacing: 3px;
       text-transform: uppercase;}
+      img {border-radius: 200px;}
 [cantidad] {color: #E33419;}
 [relleno] {color: #138A0F;}
+[cantidad="2"] {font-style: italic;}
+[cantidad="1"] {text-transform: lowercase;}
+[relleno*="al gusto"] {font-size: 80%;}
+
 ul>li {font-weight: bolder;
       text-transform: uppercase;}
-img {border-radius: 200px;}
